@@ -43,7 +43,7 @@ def search_catalog(
             skill_lower = skill.lower()
 
             # Assessment name match
-            if skill_lower in item.get(
+            if skill_lower == item.get(
                 "name",
                 ""
             ).lower():
@@ -56,7 +56,7 @@ def search_catalog(
                 []
             ):
 
-                if skill_lower in catalog_skill.lower():
+                if skill_lower == catalog_skill.lower():
 
                     score += 6
 
