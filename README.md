@@ -1,2 +1,0 @@
-# SHL
-SHL Backend Assignment
