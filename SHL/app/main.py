@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from typing import List, Literal
 
 from app.agent import get_agent_reply
-from catalog import load_catalog
+from app.catalog import load_catalog
 
 app = FastAPI()
 
