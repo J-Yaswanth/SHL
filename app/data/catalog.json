@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-8-new/",
+    "test_type": "Technical",
+    "description": "Measures Java 8 programming knowledge and coding ability for backend development roles.",
+    "skills": [
+      "Java",
+      "Programming",
+      "Backend Development",
+      "Object-Oriented Programming"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "30 minutes"
+  },
+
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/python-new/",
+    "test_type": "Technical",
+    "description": "Assesses Python programming skills, coding proficiency, and problem-solving ability.",
+    "skills": [
+      "Python",
+      "Programming",
+      "Problem Solving",
+      "Data Structures"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "35 minutes"
+  },
+
+  {
+    "name": "SQL Server",
+    "url": "https://www.shl.com/solutions/products/product-catalog/sql-server/",
+    "test_type": "Technical",
+    "description": "Measures SQL querying skills, database management knowledge, and data handling ability.",
+    "skills": [
+      "SQL",
+      "Database Management",
+      "Data Analysis"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "30 minutes"
+  },
+
+  {
+    "name": "JavaScript",
+    "url": "https://www.shl.com/solutions/products/product-catalog/javascript/",
+    "test_type": "Technical",
+    "description": "Evaluates JavaScript programming skills for frontend and web development roles.",
+    "skills": [
+      "JavaScript",
+      "Frontend Development",
+      "Web Development"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "30 minutes"
+  },
+
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/agile-software-development/",
+    "test_type": "Technical",
+    "description": "Measures understanding of Agile software development methodologies and Scrum practices.",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Software Development",
+      "Team Collaboration"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "25 minutes"
+  },
+
+  {
+    "name": "AWS Cloud Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/aws-cloud-fundamentals/",
+    "test_type": "Technical",
+    "description": "Assesses cloud computing fundamentals and AWS platform knowledge.",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "30 minutes"
+  },
+
+  {
+    "name": "DevOps Essentials",
+    "url": "https://www.shl.com/solutions/products/product-catalog/devops-essentials/",
+    "test_type": "Technical",
+    "description": "Evaluates DevOps concepts, CI/CD pipelines, and deployment practices.",
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "Automation",
+      "Cloud Deployment"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "35 minutes"
+  },
+
+  {
+    "name": "Data Science Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/data-science-fundamentals/",
+    "test_type": "Technical",
+    "description": "Measures knowledge of data science concepts, analytics, and machine learning basics.",
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Analytics",
+      "Python"
+    ],
+    "category": "Technical",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "40 minutes"
+  },
+
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/opq32r/",
+    "test_type": "Personality",
+    "description": "A personality questionnaire used for leadership, communication, teamwork, and workplace behavior assessment.",
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Behavioral"
+    ],
+    "category": "Personality",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "25 minutes"
+  },
+
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/motivation-questionnaire/",
+    "test_type": "Personality",
+    "description": "Measures motivational drivers and workplace engagement preferences.",
+    "skills": [
+      "Motivation",
+      "Employee Engagement",
+      "Behavioral Analysis"
+    ],
+    "category": "Personality",
+    "job_levels": [
+      "Mid-level",
+      "Senior",
+      "Manager"
+    ],
+    "duration": "20 minutes"
+  },
+
+  {
+    "name": "Occupational Personality Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/occupational-personality-questionnaire/",
+    "test_type": "Personality",
+    "description": "Assesses personality characteristics relevant to workplace performance and leadership.",
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Collaboration",
+      "Behavioral Traits"
+    ],
+    "category": "Personality",
+    "job_levels": [
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "30 minutes"
+  },
+
+  {
+    "name": "General Ability Screen (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/general-ability-screen/",
+    "test_type": "Cognitive",
+    "description": "Measures reasoning ability, problem-solving, and learning potential.",
+    "skills": [
+      "Analytical Thinking",
+      "Reasoning",
+      "Problem Solving"
+    ],
+    "category": "Cognitive",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "18 minutes"
+  },
+
+  {
+    "name": "Verify Interactive Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/verify-interactive-numerical-reasoning/",
+    "test_type": "Cognitive",
+    "description": "Evaluates numerical reasoning and data interpretation ability.",
+    "skills": [
+      "Numerical Analysis",
+      "Critical Thinking",
+      "Data Interpretation"
+    ],
+    "category": "Cognitive",
+    "job_levels": [
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "20 minutes"
+  },
+
+  {
+    "name": "Verify Interactive Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/verify-interactive-inductive-reasoning/",
+    "test_type": "Cognitive",
+    "description": "Assesses logical reasoning and pattern recognition ability.",
+    "skills": [
+      "Logical Thinking",
+      "Pattern Recognition",
+      "Analytical Skills"
+    ],
+    "category": "Cognitive",
+    "job_levels": [
+      "Entry-level",
+      "Mid-level"
+    ],
+    "duration": "18 minutes"
+  },
+
+  {
+    "name": "Verify Interactive Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/verify-interactive-deductive-reasoning/",
+    "test_type": "Cognitive",
+    "description": "Measures deductive reasoning and decision-making capability.",
+    "skills": [
+      "Deductive Reasoning",
+      "Decision Making",
+      "Critical Thinking"
+    ],
+    "category": "Cognitive",
+    "job_levels": [
+      "Mid-level",
+      "Senior"
+    ],
+    "duration": "20 minutes"
+  }
+]
