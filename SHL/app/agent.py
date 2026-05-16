@@ -1,5 +1,5 @@
 from typing import List, Tuple, Dict, Any
-from catalog import search_catalog, compare_assessments
+from app.catalog import search_catalog, compare_assessments
 
 
 # -----------------------------------
