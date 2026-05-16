@@ -6,6 +6,11 @@ from app.agent import get_agent_reply
 from app.catalog import load_catalog
 
 app = FastAPI()
+@app.get("/")
+def root():
+    return {
+        "message": "SHL Recommendation API is running"
+    }
 
 # Load catalog once at startup
 catalog = load_catalog("app/data/catalog.json")
