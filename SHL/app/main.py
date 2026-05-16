@@ -8,7 +8,7 @@ from app.catalog import load_catalog
 app = FastAPI()
 
 # Load catalog once at startup
-catalog = load_catalog("data/catalog.json")
+catalog = load_catalog("app/data/catalog.json")
 
 
 # -----------------------------
