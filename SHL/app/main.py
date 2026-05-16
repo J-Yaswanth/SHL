@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Literal
 
-from agent import get_agent_reply
+from app.agent import get_agent_reply
 from catalog import load_catalog
 
 app = FastAPI()
